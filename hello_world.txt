@@ -1,0 +1,2 @@
+Hello world!
+I'm just adding some test to text out how Git works.
